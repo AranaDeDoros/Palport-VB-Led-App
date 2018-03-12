@@ -1,0 +1,21 @@
+C:\Users\coty\Desktop\Puerto Paralelo vb - copia\Puerto Paralelo vb\bin\Debug\Comunicación de Puerto.exe
+C:\Users\coty\Desktop\Puerto Paralelo vb - copia\Puerto Paralelo vb\bin\Debug\Comunicación de Puerto.pdb
+C:\Users\coty\Desktop\Puerto Paralelo vb - copia\Puerto Paralelo vb\bin\Debug\Comunicación de Puerto.xml
+C:\Users\coty\Desktop\Puerto Paralelo vb - copia\Puerto Paralelo vb\obj\x86\Debug\Puerto_Paralelo_vb.Form1.resources
+C:\Users\coty\Desktop\Puerto Paralelo vb - copia\Puerto Paralelo vb\obj\x86\Debug\Puerto_Paralelo_vb.Resources.resources
+C:\Users\coty\Desktop\Puerto Paralelo vb - copia\Puerto Paralelo vb\obj\x86\Debug\Puerto Paralelo vb.vbproj.GenerateResource.Cache
+C:\Users\coty\Desktop\Puerto Paralelo vb - copia\Puerto Paralelo vb\obj\x86\Debug\Comunicación de Puerto.exe
+C:\Users\coty\Desktop\Puerto Paralelo vb - copia\Puerto Paralelo vb\obj\x86\Debug\Comunicación de Puerto.xml
+C:\Users\coty\Desktop\Puerto Paralelo vb - copia\Puerto Paralelo vb\obj\x86\Debug\Comunicación de Puerto.pdb
+E:\Puerto Paralelo vb - copia\Puerto Paralelo vb\obj\x86\Debug\Comunicación de Puerto.exe
+E:\Puerto Paralelo vb - copia\Puerto Paralelo vb\obj\x86\Debug\Comunicación de Puerto.xml
+E:\Puerto Paralelo vb - copia\Puerto Paralelo vb\obj\x86\Debug\Comunicación de Puerto.pdb
+F:\NV\Puerto Paralelo vb - copia\Puerto Paralelo vb\bin\Debug\Comunicación de Puerto.exe
+F:\NV\Puerto Paralelo vb - copia\Puerto Paralelo vb\bin\Debug\Comunicación de Puerto.pdb
+F:\NV\Puerto Paralelo vb - copia\Puerto Paralelo vb\bin\Debug\Comunicación de Puerto.xml
+F:\NV\Puerto Paralelo vb - copia\Puerto Paralelo vb\obj\x86\Debug\Puerto_Paralelo_vb.Form1.resources
+F:\NV\Puerto Paralelo vb - copia\Puerto Paralelo vb\obj\x86\Debug\Puerto_Paralelo_vb.Resources.resources
+F:\NV\Puerto Paralelo vb - copia\Puerto Paralelo vb\obj\x86\Debug\Puerto Paralelo vb.vbproj.GenerateResource.Cache
+F:\NV\Puerto Paralelo vb - copia\Puerto Paralelo vb\obj\x86\Debug\Comunicación de Puerto.exe
+F:\NV\Puerto Paralelo vb - copia\Puerto Paralelo vb\obj\x86\Debug\Comunicación de Puerto.xml
+F:\NV\Puerto Paralelo vb - copia\Puerto Paralelo vb\obj\x86\Debug\Comunicación de Puerto.pdb
